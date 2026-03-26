@@ -85,18 +85,18 @@ public class EditorText {
                 "Ana  are   mere. Ion  are  pere! Maria   are  prune..."
         );
 
-        System.out.println("Original:      " + editor.getParagraf());
+        System.out.println("original:      " + editor.getParagraf());
 
         editor.eliminaSpatii();
-        System.out.println("Fara spatii:   " + editor.getParagraf());
+        System.out.println("fara spatii:   " + editor.getParagraf());
 
-        System.out.println("Nr cuvinte:    " + editor.numaraCuvinte());
-        System.out.println("Aparitii 'are':" + editor.numaraAparitii("are"));
-        System.out.println("Propozitii:    " + editor.extragePropozitie());
+        System.out.println("nr cuvinte:    " + editor.numaraCuvinte());
+        System.out.println("aparitii 'are':" + editor.numaraAparitii("are"));
+        System.out.println("propozitii:    " + editor.extragePropozitie());
 
         editor.inlocuiesteCuLower("ANA");
-        System.out.println("Dupa lower:    " + editor.getParagraf());
+        System.out.println("dupa lower:    " + editor.getParagraf());
 
-        System.out.println("Rezumat:       " + editor.rezumat());
+        System.out.println("rezumat:       " + editor.rezumat());
     }
 }
