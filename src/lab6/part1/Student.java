@@ -1,4 +1,4 @@
-package lab6;
+package lab6.part1;
 
 public class Student implements OperatiiContBancar, Comparable<Student>{
     private String nume;

@@ -1,4 +1,4 @@
-package lab6;
+package lab6.part1;
 
 public class FirmaPartenera implements OperatiiContBancar, Comparable<FirmaPartenera> {
     private String denumire;
