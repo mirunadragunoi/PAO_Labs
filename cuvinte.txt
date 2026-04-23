@@ -1,0 +1,10 @@
+calculator
+programare
+interfata
+mostenire
+polimorfism
+abstractizare
+encapsulare
+constructori
+metoda
+variabila
