@@ -1,0 +1,5 @@
+Ana - media: 9.0 - PROMOVAT
+EROARE ---->>> nota invalida pentru studentul 'Ion'!!!!
+EROARE ---->>> linia 'Maria,10,9' nu are exact 4 valori!!!!
+EROARE ---->>> nota invalida pentru studentul 'George'!!!! trebuie sa fie intre 1 si 10!!!
+Elena - media: 4.0 - RESPINS
