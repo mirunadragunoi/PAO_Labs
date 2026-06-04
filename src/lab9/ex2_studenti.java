@@ -63,14 +63,10 @@ public class ex2_studenti {
                     System.out.println(eroare);
                 }
             }
-
             System.out.println("BRAVOOOOO!!! REZULTATE SCRISE IN FISIER YYYEY");
         }
         catch (FileNotFoundException e) {
             System.out.println("FISIERUL examene.csv nu exista!!!!");
-        }
-        catch (IOException e) {
-            System.out.println("EROARE IO: " + e.getMessage());
         }
     }
 }
